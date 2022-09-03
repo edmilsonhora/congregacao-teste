@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESH-MM2.AppConsole", "ESH-MM2.AppConsole\ESH-MM2.AppConsole.csproj", "{700460C6-3FDB-4639-B274-C02767888420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESH-MM2.DomainModel", "ESH-MM2.DomainModel\ESH-MM2.DomainModel.csproj", "{2CE41A6A-B8C8-476D-9D9C-1A6C69C4B29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700460C6-3FDB-4639-B274-C02767888420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700460C6-3FDB-4639-B274-C02767888420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700460C6-3FDB-4639-B274-C02767888420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700460C6-3FDB-4639-B274-C02767888420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE41A6A-B8C8-476D-9D9C-1A6C69C4B29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE41A6A-B8C8-476D-9D9C-1A6C69C4B29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE41A6A-B8C8-476D-9D9C-1A6C69C4B29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE41A6A-B8C8-476D-9D9C-1A6C69C4B29E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1A07A9-0BF4-4C2A-AF8D-23940161202A}
+	EndGlobalSection
+EndGlobal
